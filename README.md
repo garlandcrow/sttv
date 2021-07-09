@@ -1,19 +1,16 @@
-STTV - Svelte / Typescript / Tailwind / Vite Template
-=====================================================
+# STTV - Svelte / Typescript / Tailwind / Vite Template
 
 Get up and running with Svelte, Typescript, Tailwind and Vite. Also includes testing setup using Jest.
 
-Installation
-------------
+## Installation
 
 ```
-npx degit "srmullen/sttv#main" my_app
+npx degit "garlandcrow/sttv#master" my_app
 cd my_app
 npm install
 ```
 
-Scripts
--------
+## Scripts
 
 ### Start a development server
 
