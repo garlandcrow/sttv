@@ -3,6 +3,7 @@ lockfileVersion: 5.3
 specifiers:
   '@sveltejs/vite-plugin-svelte': ^1.0.0-next.11
   '@testing-library/svelte': ^3.0.3
+  '@tsconfig/svelte': ^2.0.1
   '@types/jest': ^26.0.21
   autoprefixer: ^10.2.5
   babel-jest: ^26.6.3
@@ -26,6 +27,7 @@ dependencies:
 devDependencies:
   '@sveltejs/vite-plugin-svelte': 1.0.0-next.11_svelte@3.38.3+vite@2.4.1
   '@testing-library/svelte': 3.0.3_svelte@3.38.3
+  '@tsconfig/svelte': 2.0.1
   '@types/jest': 26.0.24
   autoprefixer: 10.2.6_postcss@8.3.5
   babel-jest: 26.6.3
@@ -799,6 +801,10 @@ packages:
   /@trysound/sax/0.1.1:
     resolution: {integrity: sha512-Z6DoceYb/1xSg5+e+ZlPZ9v0N16ZvZ+wYMraFue4HYrE4ttONKtsvruIRf6t9TBR0YvSOfi1hUU0fJfBLCDYow==}
     engines: {node: '>=10.13.0'}
+    dev: true
+
+  /@tsconfig/svelte/2.0.1:
+    resolution: {integrity: sha512-aqkICXbM1oX5FfgZd2qSSAGdyo/NRxjWCamxoyi3T8iVQnzGge19HhDYzZ6NrVOW7bhcWNSq9XexWFtMzbB24A==}
     dev: true
 
   /@types/aria-query/4.2.2:
