@@ -7,8 +7,8 @@ const dev = mode === 'development'
 
 module.exports = {
   plugins: [
-    tailwindcss,
-    autoprefixer,
+    tailwindcss(),
+    autoprefixer(),
     !dev &&
       cssnano({
         preset: 'default',

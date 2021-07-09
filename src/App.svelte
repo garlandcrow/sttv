@@ -1,7 +1,7 @@
 <script lang="ts">
   import logo from './assets/svelte.png'
   import Counter from './components/Counter.svelte'
-  import './app.css'
+  import './css/app.css'
 </script>
 
 <main class="text-center p-4 mx-0">
