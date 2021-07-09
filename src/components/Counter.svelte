@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
   import { count } from './stores'
 
   export let id: string
